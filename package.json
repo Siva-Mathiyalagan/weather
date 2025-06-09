@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Siva-Mathiyalagn.github.io/weather",
+  "homepage": "https://Siva-Mathiyalagan.github.io/weather",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
